@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JRI Network Assistant</string>
+    <string name="screen_ip">Screen IP</string>
+    <string name="control_box_ip">Control Box IP</string>
+    <string name="gateway">Gateway</string>
+    <string name="subnet_mask">Subnet Mask</string>
+    <string name="text_input_control_box_ip">Please input the control box ip</string>
+    <string name="text_input_screen_ip">Please input the screen ip</string>
+    <string name="text_input_subnet_mask">Please input the subnet mask</string>
+    <string name="text_input_gateway">Please input the gateway</string>
+    <string name="text_input_control_box_ip_2">The control box ip is not valid!</string>
+    <string name="text_input_screen_ip_2">The screen ip is not valid!</string>
+    <string name="text_input_subnet_mask_2">The subnet mask is not valid!</string>
+    <string name="text_input_gateway_2">The gateway is not valid!</string>
+    <string name="text_setting_error">Network setup failed!</string>
+    <string name="text_setting_success">Network setup succeed!</string>
+    <string name="btn_text_setting">Setting</string>
+</resources>
